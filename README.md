@@ -62,19 +62,3 @@ This package contains functions provided for the students. These functions were 
 This package uses example data from the [US National Highway Traffic Safety Administration's Fatality Analysis Reporting System](https://www.nhtsa.gov) (FARS). FARS is a nationwide census providing the American public yearly data regarding fatal injuries suffered in motor vehicle traffic crashes. 
 
 Unfortunately, since the course was last updated, the website of FARS changed considerably and data are more difficult to find now. Therefore, the data actually used here were downloaded directly from the [course's website](https://d3c33hcgiwev3.cloudfront.net/_e1adac2a5f05192dc8780f3944feec13_fars_data.zip?Expires=1604534400&Signature=RTTvUAKz8DKWFiSEcAetz-uqBOzv79moF3uW0TbPA8k8fvG6Pa~o1wndjQsxlNKDxFWVONipYXks9nQ~G3zuKUfDj0ufW2d0ITHZlmi9VqjXjoTbW4MjXzoLX8I-CLjs-OG4VzhK6dewCktT1k2mIVfRodd72Kzu3BQTcqK5lZI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A).
-
-
-# Further readings
-
-To complete this peer-graded assignment, in addition to the course's readings, I have also consulted other invaluable sources, which are listed here. If you want to dive deeper into the details about how to build an R package, read the following tutorials:
-
-1. [Writing an R package from scratch](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
-
-2. [R Packages](https://r-pkgs.org/index.html)
-
-3. [Writing R Extensions](https://cran.r-project.org/doc/manuals/r-release/R-exts.html)
-
-4. [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
-
-5. [How to Add a Vignette to a Package in RStudio](https://www.r-bloggers.com/2020/05/how-to-add-a-vignette-to-a-package-in-rstudio/)
-
